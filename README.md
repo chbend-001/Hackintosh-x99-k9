@@ -8,7 +8,9 @@ Start project !
 opencore!
     status:
          Boot: ok
-         install: ??
+         install:
+                   install offline big sur > erro update 
+                   install online big sur > in progress
          
          
 Clover:
