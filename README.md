@@ -6,11 +6,13 @@ Start project !
 
 
 opencore!
-Status:  Boot ok
-         install ??
+    status:
+         Boot: ok
+         install: ??
          
          
 Clover:
-          Boot: partial partial 
-          install stop in grey screen installation
+    Status:
+          Boot: ok 
+          install: stop in grey screen installation
           
