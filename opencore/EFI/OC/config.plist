@@ -304,6 +304,24 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
+				<string>AtherosE2200Ethernet.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AtherosE2200Ethernet</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
 				<string>CpuTscSync.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -311,6 +329,24 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CpuTscSync</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>RT2870USBWirelessDriver.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/RT2870USBWirelessDriver</string>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>MaxKernel</key>
