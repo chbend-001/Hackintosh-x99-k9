@@ -10,7 +10,7 @@ opencore!
          Boot: ok
          install:
                    install offline big sur > erro update 
-                   install online big sur > in progress
+                   install online big sur OK
          
          
 Clover:
